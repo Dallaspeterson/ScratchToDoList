@@ -1,0 +1,23 @@
+/* Style for the task list */
+#taskList {
+    list-style-type: none;
+    padding: 0;
+}
+#taskList li {
+    border: 1px solid #ccc;
+    padding: 8px;
+    margin: 5px 0;
+}
+
+/* style for the input fieeld and button */
+#taskInput {
+    padding: 6px;
+    width: 70%;
+}
+#addButton {
+    padding: 6px 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
